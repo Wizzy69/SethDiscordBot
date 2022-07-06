@@ -5,7 +5,6 @@ This project is based on:
 
 - [.NET 6 (C#)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - [Discord.Net](https://github.com/discord-net/Discord.Net)
-- [Avalonia UI](https://avaloniaui.net/) for `DiscordBotUI` extension
 
 
 ## Plugins
